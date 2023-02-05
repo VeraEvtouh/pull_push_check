@@ -1,2 +1,3 @@
-Hello vy repositiry 
-Нужно много стараться
+# Hello vy repositiry 
+# Нужно много стараться
+# Soon time to rest
